@@ -1,0 +1,128 @@
+{
+    "release": {
+        "id": "acs2019_5yr",
+        "name": "ACS 2019 5-year",
+        "years": "2015-2019"
+    },
+    "tables": {
+        "B08122": {
+            "columns": {
+                "B08122001": {
+                    "indent": 0,
+                    "name": "Total:"
+                },
+                "B08122002": {
+                    "indent": 1,
+                    "name": "Below 100 percent of the poverty level"
+                },
+                "B08122003": {
+                    "indent": 1,
+                    "name": "100 to 149 percent of the poverty level"
+                },
+                "B08122004": {
+                    "indent": 1,
+                    "name": "At or above 150 percent of the poverty level"
+                },
+                "B08122005": {
+                    "indent": 1,
+                    "name": "Car, truck, or van - drove alone:"
+                },
+                "B08122006": {
+                    "indent": 2,
+                    "name": "Below 100 percent of the poverty level"
+                },
+                "B08122007": {
+                    "indent": 2,
+                    "name": "100 to 149 percent of the poverty level"
+                },
+                "B08122008": {
+                    "indent": 2,
+                    "name": "At or above 150 percent of the poverty level"
+                },
+                "B08122009": {
+                    "indent": 1,
+                    "name": "Car, truck, or van - carpooled:"
+                },
+                "B08122010": {
+                    "indent": 2,
+                    "name": "Below 100 percent of the poverty level"
+                },
+                "B08122011": {
+                    "indent": 2,
+                    "name": "100 to 149 percent of the poverty level"
+                },
+                "B08122012": {
+                    "indent": 2,
+                    "name": "At or above 150 percent of the poverty level"
+                },
+                "B08122013": {
+                    "indent": 1,
+                    "name": "Public transportation (excluding taxicab):"
+                },
+                "B08122014": {
+                    "indent": 2,
+                    "name": "Below 100 percent of the poverty level"
+                },
+                "B08122015": {
+                    "indent": 2,
+                    "name": "100 to 149 percent of the poverty level"
+                },
+                "B08122016": {
+                    "indent": 2,
+                    "name": "At or above 150 percent of the poverty level"
+                },
+                "B08122017": {
+                    "indent": 1,
+                    "name": "Walked:"
+                },
+                "B08122018": {
+                    "indent": 2,
+                    "name": "Below 100 percent of the poverty level"
+                },
+                "B08122019": {
+                    "indent": 2,
+                    "name": "100 to 149 percent of the poverty level"
+                },
+                "B08122020": {
+                    "indent": 2,
+                    "name": "At or above 150 percent of the poverty level"
+                },
+                "B08122021": {
+                    "indent": 1,
+                    "name": "Taxicab, motorcycle, bicycle, or other means:"
+                },
+                "B08122022": {
+                    "indent": 2,
+                    "name": "Below 100 percent of the poverty level"
+                },
+                "B08122023": {
+                    "indent": 2,
+                    "name": "100 to 149 percent of the poverty level"
+                },
+                "B08122024": {
+                    "indent": 2,
+                    "name": "At or above 150 percent of the poverty level"
+                },
+                "B08122025": {
+                    "indent": 1,
+                    "name": "Worked from home"
+                },
+                "B08122026": {
+                    "indent": 2,
+                    "name": "Below 100 percent of the poverty level"
+                },
+                "B08122027": {
+                    "indent": 2,
+                    "name": "100 to 149 percent of the poverty level"
+                },
+                "B08122028": {
+                    "indent": 2,
+                    "name": "At or above 150 percent of the poverty level"
+                }
+            },
+            "denominator_column_id": "B08122001",
+            "title": "Means of Transportation to Work by Poverty Status in the Past 12 Months",
+            "universe": "Workers 16 Years and Over for Whom Poverty Status Is Determined"
+        }
+    }
+}
